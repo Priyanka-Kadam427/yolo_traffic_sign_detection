@@ -11,13 +11,19 @@ The model was trained for 20 epochs using a publicly available traffic sign data
 
 ⭐ Features
 
-Detect traffic signs in images
-Detect signs in videos
-Real-time detection using webcam
-Powered by YOLOv8n (fast & lightweight)
-Beautiful Streamlit UI
-Includes training curves, mAP, precision, recall
-High accuracy and real-time performance
+1.Detect traffic signs in images
+
+2.Detect signs in videos
+
+3.Real-time detection using webcam
+
+4.Powered by YOLOv8n (fast & lightweight)
+
+5.Beautiful Streamlit UI
+
+6.Includes training curves, mAP, precision, recall
+
+7.High accuracy and real-time performance
 
 🧪 How It Works
 
